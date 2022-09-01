@@ -1,3 +1,7 @@
 # VSCode repo settings
 .vscode
 node_modules/
+tests
+.trybe
+images
+trybe.yml
